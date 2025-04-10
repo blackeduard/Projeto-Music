@@ -33,13 +33,13 @@ prevBtn2.addEventListener('click', () => {
 const musicas = [
   {
     titulo: "You Are The Reason",
-    src: "musics/You Are The Reason (2).mp3",
+    src: "musics/You Are The Reason.mp3",
     capa: "img/album1.jpeg",
     link: "https://www.youtube.com/watch?v=ShZ978fBl6Y&pp=ygUSeW91IGFyZSB0aGUgcmVhc29u"
   },
   {
     titulo: "The Perfect Fan",
-    src: "musics/The perfect fan (2).mp3",
+    src: "musics/The Perfect Fan.mp3",
     capa: "img/album2.jpeg",
     link: "https://www.youtube.com/watch?v=ltAU9_WOY38&pp=ygUPdGhlIHBlcmZlY3QgZmFu"
   },
