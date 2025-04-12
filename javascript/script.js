@@ -39,7 +39,7 @@ const musicas = [
   },
   {
     titulo: "The Perfect Fan",
-    src: "musics/The perfect fan (2).mp3",
+    src: "musics/The Perfect Fan (2).mp3",
     capa: "img/album2.jpeg",
     link: "https://www.youtube.com/watch?v=ltAU9_WOY38&pp=ygUPdGhlIHBlcmZlY3QgZmFu"
   },
