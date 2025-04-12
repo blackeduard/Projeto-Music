@@ -5,8 +5,8 @@ O objetivo é celebrar essa mulher incrível que sempre esteve ao meu lado, most
 <h1>✨ Funcionalidades</h1>
 <ul>
   <li>Galeria de fotos com momentos especiais</li>
-  <li>Player de música com canções que representam nossa relação</li>
-  <li>Mensagem personalizada de aniversário</li>
+  <li>Player de música com canções</li>
+  <li>Mensagem de aniversário</li>
   <li>Design responsivo e afetivo</li>
 </ul>
 
